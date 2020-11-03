@@ -1,0 +1,75 @@
+html, body {
+height:100%;
+}
+header {
+display:center;
+background:#00FFFF;
+padding:10px 0px;
+float: center;
+font-family: Garamond;
+}
+head{
+float: center;
+display: center;
+background:#00FFFF;
+padding:10px 0px;
+font-family: Garamond;
+}
+h1{
+float: center;
+}
+section {
+width: 100%;
+background: #3CFEEF;
+float: center;
+overflow: left;
+padding-bottom: 60px;
+padding-top: 30px;
+display:block;
+}
+div{
+background: #00FFFF;
+float: center;
+font-family: Garamond;
+display: center;
+}
+form{
+backgorund-color: #07EDDC;
+float: center;
+font-family: Garamond;
+border-radius: 2px solid aqua;
+width: 100%;
+pandding: 3px;
+margin:auto;
+background: #00FFFF;
+border: 2px solid aqua;
+display:center;
+}
+form input[type="nombre"]{
+width:180px;
+padding:3px 10px;
+border:1px solid aqua;
+border-radius:3px;
+background-color:#00FFFF;
+margin:8px 0;
+display:inline-block;
+}
+h3{
+float:center;
+}
+figure {
+display: table; margin: 0 auto;
+text-align: center;
+vertical-align:bottom;
+}
+img{
+vertical-align:bottom;
+}
+footer{
+float:center;
+font-family: Garamond;
+background: #07EDDC;
+display:center;
+padding: 10px 0px;
+width: 100%;
+}
